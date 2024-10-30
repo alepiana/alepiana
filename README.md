@@ -11,7 +11,7 @@ I am currently learning to use GitHub to manage my projects and share my work. I
 - Email: alessandro7.piana@gmail.com
 
 ### Download my CV
-[Curriculum Vitae]()
+[Curriculum Vitae](./CurriculumVitae.pdf)
 
 ### Hobbies & Interests
 - 🔴⚫ AC Milan fan
