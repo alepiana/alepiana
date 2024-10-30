@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there👋
+
+I am Alessandro Piana from Bergamo (Italy)
+- 🎓 I am currently pursuing the M.Sc. in Mathematical engineering from Politecnico di Milano, my main interests concern probability, statistics and machine learning models
+- 💼 Working on a thesis project on a digital twin framework for risk assessment of patients in ICU
+
+I am currently learning to use GitHub to manage my projects and share my work. I'm exploring features like version control, documentation with READMEs, and collaborating on public repositories
+
+### Reach me
+- LinkedIn: [www.linkedin.com/in/alessandro-piana-a87868211]
+- Email: alessandro7.piana@gmail.com
+
+### Download my CV
+[Curriculum Vitae]()
+
+### Hobbies & Interests
+- 🔴⚫ AC Milan fan
+- 🏆 Sports enthusiast
+- ⚽ I've played football (the real one) for 14 years
 
 <!--
 **alepiana/alepiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
