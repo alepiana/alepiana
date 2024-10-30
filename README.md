@@ -14,10 +14,10 @@ I am currently learning to use GitHub to manage my projects and share my work. I
 [Curriculum Vitae](./CurriculumVitae.pdf)
 
 ### Hobbies & Interests
-- 🔴⚫ AC Milan fan
+- 🧮 I love solving math and logic quizzes
 - 🏆 Sports enthusiast
 - ⚽ I've played football for 14 years
-- 🧮 I love solving math and logic quizzes
+- 🔴⚫ AC Milan fan
 
 <!--
 **alepiana/alepiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
