@@ -16,7 +16,8 @@ I am currently learning to use GitHub to manage my projects and share my work. I
 ### Hobbies & Interests
 - 🔴⚫ AC Milan fan
 - 🏆 Sports enthusiast
-- ⚽ I've played football (the real one) for 14 years
+- ⚽ I've played football for 14 years
+- 🧮 I love solving math and logic quizzes
 
 <!--
 **alepiana/alepiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
