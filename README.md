@@ -16,7 +16,6 @@ I am currently learning to use GitHub to manage my projects and share my work. I
 ### Hobbies & Interests
 - 🧮 I love solving math and logic quizzes
 - 🏆 Sports enthusiast
-- ⚽ I've played football for 14 years
 - 🔴⚫ AC Milan fan
 
 <!--
