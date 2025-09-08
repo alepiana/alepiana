@@ -1,8 +1,8 @@
 ## Hi there👋
 
 I am Alessandro Piana from Bergamo (Italy)
-- 🎓 I am currently pursuing the M.Sc. in Mathematical Engineering from Politecnico di Milano. My main interests concern probability, statistics and machine learning models
-- 💼 Working on a thesis project on a digital twin framework for risk assessment of patients in ICU
+- 🎓 I completed M.Sc. in Mathematical Engineering from Politecnico di Milano. My main interests concern probability, statistics and machine learning models
+- 💼 Developed a thesis project on a digital twin framework for ICU glucose management
 
 I am currently learning to use GitHub to manage my projects and share my work. I'm exploring features like version control, documentation with READMEs, and collaborating on public repositories
 
