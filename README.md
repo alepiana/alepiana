@@ -1,34 +1,34 @@
-## Hi there👋
+## Hi there 👋
 
-I am Alessandro Piana from Bergamo (Italy)
-- 🎓 I completed M.Sc. in Mathematical Engineering from Politecnico di Milano. My main interests concern probability, statistics and machine learning models
-- 💼 Developed a thesis project on a digital twin framework for ICU glucose management
+I am **Alessandro Piana** from Bergamo (Italy).
 
-I am currently learning to use GitHub to manage my projects and share my work. I'm exploring features like version control, documentation with READMEs, and collaborating on public repositories
+* 🎓 I completed an M.Sc. in **Mathematical Engineering** at Politecnico di Milano. My main interests are probability, statistics, machine learning, and decision-making under uncertainty
+* 💼 Developed a master’s thesis on a **Digital Twin framework for ICU glucose management**
+* 🌱 I am currently learning **generative AI frameworks** (e.g. *LangChain, LangGraph*) and **cloud-based tools on AWS**
 
-### Reach me
-- LinkedIn: [www.linkedin.com/in/alessandro-piana-a87868211]
-- Email: alessandro7.piana@gmail.com
+I am currently working as a **Data Scientist** at [**Deix Srl**](./https://www.deix.ai/it)
 
-### Download my CV
-[Curriculum Vitae](./CV_03.pdf)
+## 🎓 M.Sc. Thesis
 
-### Hobbies & Interests
-- 🧮 I love solving math and logic quizzes
-- 🏆 Sports enthusiast
-- 🔴⚫ AC Milan fan
+### *A Flexible Digital Twin Approach for ICU Glucose Management*
 
-<!--
-**alepiana/alepiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My master’s thesis focuses on the design of a **flexible, probabilistic Digital Twin framework** for glucose management in Intensive Care Units (ICU).
 
-Here are some ideas to get you started:
+The proposed approach models the patient–digital twin interaction using **Probabilistic Graphical Models (PGMs)**, with particular emphasis on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Markov chains** to describe the stochastic evolution of the patient’s latent clinical state
+* **Dynamic Decision Networks (DDNs)** to jointly represent latent states, observations, clinical actions, and rewards over time
+* **Probabilistic inference** techniques to estimate unobserved states and support decision-making under uncertainty
+
+The framework is designed to be **modular, data-driven, and adaptable**, allowing the integration of heterogeneous clinical data (e.g. glucose measurements, insulin infusion rates) and enabling risk-aware decision support for ICU glucose control.
+
+## 📫 Reach me
+
+* LinkedIn: [https://www.linkedin.com/in/alessandro-piana-a87868211](https://www.linkedin.com/in/alessandro-piana-a87868211)
+* Email: [alessandro7.piana@gmail.com](mailto:alessandro7.piana@gmail.com)
+
+## 🎯 Hobbies & Interests
+
+* 🧮 I love solving math and logic puzzles
+* 🏆 Sports enthusiast
+* 🔴⚫ AC Milan fan
