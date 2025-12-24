@@ -6,7 +6,7 @@ I am **Alessandro Piana** from Bergamo (Italy).
 * 💼 Developed a master’s thesis on a **Digital Twin framework for ICU glucose management**
 * 🌱 I am currently learning **generative AI frameworks** (e.g. *LangChain, LangGraph*) and **cloud-based tools on AWS**
 
-I am currently working as a **Data Scientist** at [**Deix Srl**](./https://www.deix.ai/it)
+I am currently working as a **Data Scientist** at [**Deix Srl**](./https://www.deix.ai/)
 
 ## 🎓 M.Sc. Thesis
 
