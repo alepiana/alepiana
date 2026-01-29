@@ -2,7 +2,7 @@
 
 I am **Alessandro Piana** from Bergamo (Italy).
 
-* 🎓 I completed an M.Sc. in **Mathematical Engineering** at Politecnico di Milano. My main interests are probability, statistics, machine learning, and decision-making under uncertainty
+* 🎓 I completed a M.Sc. in **Mathematical Engineering** at Politecnico di Milano. My main interests are probability, statistics, machine learning, and decision-making under uncertainty
 * 💼 Developed a master’s thesis on a **Digital Twin framework for ICU glucose management**
 * 🌱 I am currently learning **generative AI frameworks** (e.g. *LangChain, LangGraph*) and **cloud-based tools on AWS**
 
